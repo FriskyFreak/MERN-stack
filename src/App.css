@@ -1,0 +1,15 @@
+.links {
+  text-decoration: none;
+  padding: 1rem;
+  margin-right: 2rem;
+  color: white;
+  border-radius: 1rem;
+}
+.links:hover {
+  background-color: #585586;
+  color: white;
+}
+.content {
+  width: 1000px;
+  margin: 1px auto;
+}

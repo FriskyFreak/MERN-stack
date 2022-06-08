@@ -1,0 +1,12 @@
+Get http://localhost:4000/product/get-products
+
+###
+
+POST http://localhost:4000/product/create-product
+Content-Type:application/json 
+
+{
+  "id":500,
+  "product":"abc"
+}
+
